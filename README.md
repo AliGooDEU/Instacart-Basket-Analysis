@@ -1,2 +1,3 @@
-# pythonexamples
-examples of my experience with python
+# Instacart Basket Analysis
+Python analysis project
+
